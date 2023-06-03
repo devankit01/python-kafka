@@ -1,0 +1,4 @@
+.DS_Store
+code_env/
+bitnami/
+*.pyc
